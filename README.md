@@ -1,2 +1,1 @@
-# daily_report
 # resume
