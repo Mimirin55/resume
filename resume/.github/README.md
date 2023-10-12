@@ -1,2 +1,0 @@
-# daily_report
-# resume
