@@ -1,1 +1,1 @@
-# twitter_clone
+# go_practice
